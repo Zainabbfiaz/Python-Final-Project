@@ -46,15 +46,3 @@ This project develops a machine learning model to classify mushrooms as edible o
 
 A Decision Tree model is sufficient to accurately classify mushrooms in this dataset due to strong feature separability.
 
-
-## Dependencies
-
-* Python 3
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* scikit-learn
-
-Install using:
-pip install pandas numpy matplotlib seaborn scikit-learn
